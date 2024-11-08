@@ -1,1 +1,3 @@
 # MineTechProject
+
+Начало разработки.
